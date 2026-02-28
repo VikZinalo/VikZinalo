@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Victor (Vik Zinalo)
+I’m a fintech operations professional with experience in:
 
-<!--
-**VikZinalo/VikZinalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💳 Credit & BNPL operations
 
-Here are some ideas to get you started:
+🏦 Payment systems & merchant onboarding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Customer experience & dispute resolution
+
+🔍 Risk review & fraud awareness
+
+🛠 Process improvement & workflow optimization
+
+Currently focused on:
+
+Fintech systems documentation
+
+Payment lifecycle mapping
+
+Risk & compliance fundamentals
+
+Building simple fintech-related tools
